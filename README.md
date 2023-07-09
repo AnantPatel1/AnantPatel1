@@ -178,10 +178,5 @@
         alt="anantpatel1"
       />
     </p>
-    <p align="left">
-      <a href="https://github.com/ryo-ma/github-profile-trophy"
-        ><img
-          src="https://github-profile-trophy.vercel.app/?username=anantpatel1"
-          alt="anantpatel1"
-      /></a>
+  
     </p>
