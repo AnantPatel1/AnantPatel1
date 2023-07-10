@@ -158,14 +158,8 @@
       </a>
     </p>
     <p>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=anantpatel1&show_icons=true&locale=en&layout=compact"
-        alt="anantpatel1"
-      />
-    </p>
-    <p>
       &nbsp;<img
+          color="#8cabde"
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=anantpatel1&show_icons=true&locale=en"
         alt="anantpatel1"
@@ -178,5 +172,11 @@
         alt="anantpatel1"
       />
     </p>
-  
+     <p>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=anantpatel1&show_icons=true&locale=en&layout=compact"
+        alt="anantpatel1"
+      />
     </p>
+
