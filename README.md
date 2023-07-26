@@ -25,7 +25,7 @@
     <p>
       👨‍💻 All of my projects are available at (https://github.com/AnantPatel1)
     </p>
-    <p>💬 Ask me about **JS, React**</p>
+    <p>💬 Ask me about **React,Next.JS**</p>
     <p>📫 How to reach me **anantpatel07012003@gmail.com**</p>
     <p>
       ⚡ Fun fact **The first website to use JavaScript was Hotwired, a website
