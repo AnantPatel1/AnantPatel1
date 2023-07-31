@@ -19,8 +19,8 @@
         alt="anantpatel1"
       />
     </p>
-    <p>🔭 I’m currently working on [Resume Builder]</p>
-    <p>🌱 I’m currently learning **ReactNative, NextJs**</p>
+    <p>🔭 I’m currently working on [Spotify-Cone]</p>
+    <p>🌱 I’m currently learning **ReactNative**</p>
     <p>👯 I’m looking to collaborate on **Full Stack Projects**</p>
     <p>
       👨‍💻 All of my projects are available at (https://github.com/AnantPatel1)
