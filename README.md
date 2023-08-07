@@ -19,7 +19,7 @@
         alt="anantpatel1"
       />
     </p>
-    <p>🔭 I’m currently working on [Spotify-Cone]</p>
+    <p>🔭 I’m currently working as a Frontend Developer Intern at #Support:Let's Talk</p>
     <p>🌱 I’m currently learning **ReactNative**</p>
     <p>👯 I’m looking to collaborate on **Full Stack Projects**</p>
     <p>
