@@ -5,7 +5,7 @@
     />
     <h1 align="center">Hi 👋, I'm Anant Patel</h1>
     <h3 align="center">
-      A passionate frontend and Software developer from India
+      A passionate Software developer from India
     </h3>
     <img
       align="right"
@@ -20,7 +20,7 @@
       />
     </p>
     <p>🔭 I’m currently working as a Frontend Developer Intern at #Support:Let's Talk</p>
-    <p>🌱 I’m currently learning **ReactNative**</p>
+    <p>🌱 I’m currently learning **Backend in NodeJs**</p>
     <p>👯 I’m looking to collaborate on **Full Stack Projects**</p>
     <p>
       👨‍💻 All of my projects are available at (https://github.com/AnantPatel1)
