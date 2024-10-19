@@ -19,7 +19,7 @@
         alt="anantpatel1"
       />
     </p>
-    <p>🔭 I’m currently working as a FullStack Developer Intern at #FusionCore</p>
+    <p>🔭 I’m currently working as a Frontend Developer Intern at #Kraya</p>
     <p>🌱 I’m currently learning **DSA with JAVA**</p>
     <p>👯 I’m looking to collaborate on **Full Stack Projects**</p>
     <p>
